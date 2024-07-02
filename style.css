@@ -1,0 +1,60 @@
+.background{
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+.sfondo{
+    background-color: rgba(0, 0, 0, 0.5);
+    width:1000px;
+    height: 550px;
+    border-radius: 5%;
+    margin: auto;
+}
+header{
+    margin: auto;
+}
+#logo{
+    max-height: 50px;
+    margin-left: 45%;
+}
+#titolo{
+    color: greenyellow;
+    font-size: large;
+    width: 500px;
+    margin-left: 35%;
+}
+nav{
+    background-color: greenyellow;
+    width: 800px;
+    height: 20px;
+    margin: auto;
+    padding: 10px;
+}
+.tasti{
+       margin-left: 30%;
+       display: block;
+}
+.font{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin-left: 10%;
+}
+#carica{
+    background-color: orange;
+    width: 170px;
+    height: 10px;
+    border-radius: 10%;
+}
+#carica2{
+    background-color: yellowgreen;
+    width: 270px;
+    height: 10px;
+    border-radius: 10%; 
+}
+#carica3{
+    background-color: red;
+    width: 70px;
+    height: 10px;
+    border-radius: 10%;
+}
